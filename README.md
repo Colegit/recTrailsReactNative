@@ -7,7 +7,7 @@ Placeholder, not actually licensed yet
 ## Overview
 
 Rec Trails is an offline-first mobile application for Android and IOS purposed for displaying local government open data centered around outdoor recreation.
-This open-source project aims to provide local government agencies and municipal tourism teams the ability to stand up their own customized outdoor recreation application that leverages their own data that is 100% offline and free. 
+This project aims to provide municipalities and tourism teams the ability to stand up their own customized outdoor recreation application that leverages their own data that is 100% offline and free. 
 
 ![Screenshot](screenshots/screenshot1.png)
 ![Screenshot](screenshots/screenshot2.png)
