@@ -1,7 +1,8 @@
 # Rec Trails
 
-Placeholder, not actually licensed yet
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Placeholder, not actually licensed yet
 
 ## Overview
 
@@ -13,7 +14,7 @@ This open-source project aims to provide local government agencies and municipal
 
 ## Why Rec Trails
 
-- **Hyper-Specific Trail and POI Information:** There are a long list of outdoor recreation apps on the market. But there are very few that have the detailed GIS information that your municipality has. Rec Trails allows for attaching additional trail information (e.g. paved vs dirt, dogs allowed, wheelchair accessable, etc.) as well as useful point of interest
+- **Specific Trail and POI Information:** There are a long list of outdoor recreation apps on the market. But there are very few that have the detailed GIS information that your municipality has. Rec Trails allows for attaching additional trail information (e.g. paved vs dirt, dogs allowed, wheelchair accessable, etc.) as well as useful point of interest
   info, such as outhouse vs running water bathroom, bench locations, lookout points, covered picnic shelter, or any other info that helps users better navigate your municipality's outdoor recreation. 
   
 - **No pre-downloading of data:** No pre-downloading and caching of data. All data (vector and raster) is embedded in the application, with no REST calls to a cloud server.
@@ -31,8 +32,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### User Prerequisits
 
-- Currently available for deployment on the Android and IOS store. The application does have the ability to deploy to a website as it is built with React Native Expo, however, this functionality is not actively supported, tested, or maintained. 
-
+- For setup at your own local government, you must have an understanding of the React Native framework and general app store deployment and requirements. 
+  
 ### Installation
 
 1. [Step-by-step installation instructions.]
