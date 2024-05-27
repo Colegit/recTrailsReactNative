@@ -26,5 +26,5 @@ This project aims to provide municipalities and tourism teams the ability to sta
 
 ### User Prerequisits
 
-- For setup at your own local government, it is recommended you have an understanding of the React Native framework, Typescript, SQLite, SpatiaLite, GIS fundamentals, and general app store deployment and requirements. 
+- For setup at your own local government, it is recommended you have an understanding of the React Native framework, Typescript, SQLite, GIS fundamentals, and general app store deployment and requirements. 
 
